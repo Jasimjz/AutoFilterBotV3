@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  JUNIOR MANDRAKE
     
-➥ Creator : [MR.JZ AND HARRY](
+➥ Creator : [@jzmodder & @imhary](
 https://t.me/gzprojects)
 
 ➥ Language : Python3
